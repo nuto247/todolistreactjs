@@ -21,6 +21,15 @@ nav a {
   margin-right: 16px;
 }
 
+.todo-table{
+  width: 600px;
+  margin: 40px auto;
+}
+
+.delete-button {
+  text-align: center;
+}
+
 /* nav a.active {
   text-decoration: none;
   font-weight: bold;
